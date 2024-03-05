@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am PhD student in astrophysics working on numerical tools for cosmology and galaxy formation :)
+I am a 25 year old PhD student in astrophysics working on numerical tools for cosmology and galaxy formation :)
 
 <!--
 **RZangarelli/RZangarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
